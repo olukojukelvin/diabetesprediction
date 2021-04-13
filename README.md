@@ -9,7 +9,7 @@
   <p align="center">
     Based on some dataset, this application predicts the probability of a person having diabetes
     <br />
-    <a href="https://xxx"><strong>View Project »</strong></a>
+    <a href="https://predictdiabetesnow.herokuapp.com/"><strong>View Project »</strong></a>
     <br />
     <br />
     <a href="https://github.com/olukojukelvin/diabetesprediction/">View Codes</a>
@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Project
 
- <a href="xxx">
+ <a href="https://predictdiabetesnow.herokuapp.com/">
     <img src="images/homepage.png">   <img src="images/homepagewithdatasample.png"> <img src="images/resultpage.png"> <img src="images/pairplot.png"> <img src="images/scatterplotagevspressure.png"> <img src="images/modelstrainingperformance.png"> <img src="images/correlationmatrix.png">
   </a>
 
