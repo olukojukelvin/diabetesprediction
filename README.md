@@ -105,7 +105,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Kelin OLUKOJU
+Your Name - Kelvin OLUKOJU
 
 Project Link: [https://github.com/olukojukelvin/diabetesprediction/)
 
